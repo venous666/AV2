@@ -9,7 +9,8 @@ export default function App() {
         <Text style={styles.titulo}>Hello kitty coffee</Text>
       <Text style={styles.text}> aqui fazendo seu cadastro é possível
        encomendar cafés da nossa loja de maneira agil e prática, cabe
-      no bolso e na rotina.</Text>
+      no bolso e na rotina.
+      venha fazer parte do nosso clube</Text>
       <Link href="/sobre">ir para a tela sobre!</Link>
       <StatusBar style="auto" />
     </View>
