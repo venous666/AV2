@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
        <Image style={styles.img} source={require('../assets/hellokitty.png')}></Image>
-      <Text style={styles.titulo}>Voltar para tela de home!</Text>
+      <Text style={styles.titulo}>Hello kitty coffee!</Text>
       <TextInput style={styles.input}placeholder="Nome"></TextInput>
       <TextInput style={styles.input}placeholder="E-mail"></TextInput>
       <TextInput style={styles.input}placeholder="data de nascimento"></TextInput>
